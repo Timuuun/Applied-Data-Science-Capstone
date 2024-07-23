@@ -4,3 +4,4 @@ This following repository contains all assignment in IBM Applied Data Science Ca
 2. Hands-on Lab_Complete the Data Collection with Web Scraping lab.ipynb
 3. Hands-on Lab_Data Wrangling.ipynb
 4. Hands-on Lab_Complete the EDA with SQL.ipynb
+5. EDA with Visualization Lab.ipynb
